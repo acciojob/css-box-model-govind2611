@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
 .box{
-	 background: lightblue;
 	width: 300px;  
   border: 15px solid blue;
   padding: 50px;
   margin: 20px;
+	background: lightblue;
 }
